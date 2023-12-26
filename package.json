@@ -1,7 +1,7 @@
 {
-    "name": "point",
+    "name": "welcome",
     "version": "1.0.0",
-    "description": "Discord point bot for Discord Server.",
+    "description": "Discord welcome bot for Discord Server.",
     "main": "src/index.ts",
     "scripts": {
         "start": "ts-node src/index.ts",
@@ -9,9 +9,9 @@
         "format": "prettier --write .",
         "lint": "tslint -p tsconfig.json"
     },
-    "author": "Takachi Stark",
+    "author": "Takachi",
     "repository": {
-        "url": "https://github.com/orgs/Takachi-Takachi-bots/point"
+        "url": "https://github.com/rewenqq/typescript-welcome-bots"
     },
     "license": "MIT",
     "private": true,
